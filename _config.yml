@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 theme: jekyll-theme-time-machine
 title: My Website
 description: Hello World
